@@ -10,6 +10,3 @@ Vanwege problemen met het initialiseren van globale en static variabelen
 (alles in de bss sectie) moet wel handmatig de functie init_malloc eerst
 worden aangeroepen. Het probleem lijkt te zitten in data dat nog in het
 flash staat van vorige programma's, en niet is overschreven door het huidige
-
-voor verdere vragen,
-robin.dev@gmail.com
